@@ -1,49 +1,37 @@
-# Hi, I'm Ömer Kaan Şanal
+<div align="center">
 
-Computer Science student at Özyeğin University focused on **agentic AI**,  
-**full-stack development**, and **computer vision**.
+# Ömer Kaan Şanal
 
-I build end-to-end systems that connect AI models with reliable backend
-services, practical user interfaces, testing, observability, and deployment.
+### AI/ML & Full-Stack Developer
+
+I build intelligent systems by combining  
+**AI models, reliable backends, and practical interfaces.**
+
+<br>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/%C3%B6mer-kaan-%C5%9Fanal-510a63292/)
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:omerkaansanal@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Projects-Explore-181717?style=for-the-badge&logo=github&logoColor=white)](#featured-projects)
+
+</div>
+
+---
 
 ## About Me
 
-- Former AI Software Development Intern at **Etiya**
-- Developer of **Mini Agent Platform**
-- Interested in agentic AI, multi-agent systems, RAG, computer vision, and federated learning
-- Experienced with Python, FastAPI, React, PostgreSQL, TensorFlow, and Docker
-- Based in Istanbul, Türkiye
+I'm a Computer Science student at Özyeğin University, focusing on  
+**agentic AI, full-stack development, and computer vision**.
 
-## Featured Projects
+During my AI Software Development internship at **Etiya**, I designed and
+developed the Mini Agent Platform, combining configurable agents, RAG,
+multi-agent systems, visual workflows, secure A2A communication, guardrails,
+observability, and GPU-enabled visual-model training.
 
-### [Mini Agent Platform](https://github.com/omerksnl/mini_agent_platform)
+I enjoy building complete systems—not only training a model, but also designing
+the backend, interface, database, testing strategy, and deployment environment
+around it.
 
-A multi-tenant platform for configurable AI agents, RAG, multi-agent
-coordination, visual workflows, secure A2A communication, guardrails,
-observability, and GPU-enabled image-classification training.
-
-### [Federated Sign Language Calculator](https://github.com/omerksnl/ASL-Calculator)
-
-A federated learning system for recognizing static ASL gestures using
-MobileNetV2, OpenCV, MediaPipe, Flower, and Raspberry Pi clients.
-
-### [Scoliosis AI Diagnosis and Monitoring System](https://github.com/omerksnl/HSILProject)
-
-A two-stage deep-learning pipeline for Cobb-angle estimation and spinal
-curve classification from X-ray images.
-
-## Technologies
-
-**Languages:** Python, TypeScript, Java, C++, C, SQL
-
-**AI & Machine Learning:** TensorFlow, PyTorch, scikit-learn, LangChain,
-LangGraph, OpenCV, MediaPipe
-
-**Backend & Data:** FastAPI, Flask, PostgreSQL, pgvector, MySQL, Redis,
-SQLAlchemy
-
-**Frontend & DevOps:** React, Vite, Docker, Git, pytest
-
-## Contact
-
-- [LinkedIn](https://www.linkedin.com/in/ömer-kaan-şanal-510a63292/)
+```text
+Current focus  →  Agentic AI, multi-agent systems, RAG
+Also exploring →  Computer vision, federated learning, AI evaluation
+Based in       →  Istanbul, Türkiye
