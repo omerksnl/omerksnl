@@ -1,4 +1,4 @@
-# Hi, I'm Ömer Kaan Şanal 👋
+# Hi, I'm Ömer Kaan Şanal
 
 Computer Science student at Özyeğin University focused on **agentic AI**,  
 **full-stack development**, and **computer vision**.
